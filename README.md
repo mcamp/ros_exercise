@@ -27,7 +27,7 @@ This will spawn the Gazebo simulation with the husky and the RViz visualization.
 
 ## Follow using RViz
 
-To make the robot move, we need to use the **2D Pose Estimate** to add a new pose to follow.
+To make the robot move, we need to use the **2D Pose Estimate** of RViz to add a new pose to follow.
 An arrow will appear to show where the robot will move.
 You can keep adding new poses and the robot should follow them in order.
 
