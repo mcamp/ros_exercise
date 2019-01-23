@@ -173,6 +173,14 @@ Visualization Manager:
       Topic: /map
       Unreliable: false
       Value: true
+    - Class: rviz/Marker
+      Enabled: true
+      Marker Topic: visualization_marker
+      Name: Marker
+      Namespaces:
+        {}
+      Queue Size: 100
+      Value: true
   Enabled: true
   Global Options:
     Background Color: 48; 48; 48
@@ -231,4 +239,4 @@ Window Geometry:
     collapsed: false
   Width: 1200
   X: 55
-  Y: 50
+  Y: 40
